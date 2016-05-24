@@ -1,0 +1,6 @@
+C:\Users\Cody.Wahl\Documents\GitHub\CSharpActions\CSharpActions\CSharpActions\bin\Debug\CSharpActions.exe.config
+C:\Users\Cody.Wahl\Documents\GitHub\CSharpActions\CSharpActions\CSharpActions\bin\Debug\CSharpActions.exe
+C:\Users\Cody.Wahl\Documents\GitHub\CSharpActions\CSharpActions\CSharpActions\bin\Debug\CSharpActions.pdb
+C:\Users\Cody.Wahl\Documents\GitHub\CSharpActions\CSharpActions\CSharpActions\obj\Debug\CSharpActions.csprojResolveAssemblyReference.cache
+C:\Users\Cody.Wahl\Documents\GitHub\CSharpActions\CSharpActions\CSharpActions\obj\Debug\CSharpActions.exe
+C:\Users\Cody.Wahl\Documents\GitHub\CSharpActions\CSharpActions\CSharpActions\obj\Debug\CSharpActions.pdb
